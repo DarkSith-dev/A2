@@ -1,0 +1,18 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Mulish:wght@200&family=Roboto:ital,wght@1,100&display=swap');
+* {
+     margin: 0;
+     padding: 0;
+     list-style: none;
+     text-decoration: none;
+}
+
+:root{
+    --font-primary: "Merriweather", serif; 
+    --font-secundary:"ROBOTO", serif;
+    --font-action:"Mulish", serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
